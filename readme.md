@@ -4,7 +4,7 @@ A collection of computer science algorithms and data structures implemented from
 
 ## Contents
 
-### C
+### Sorting
 
 - **array.c** - Basic array operations
 - **bubble_sort.c** - Bubble Sort
@@ -17,6 +17,6 @@ A collection of computer science algorithms and data structures implemented from
 Compile any file with `gcc`:
 
 ```sh
-gcc C/bubble_sort.c -o bubble_sort
+gcc Sorting/bubble_sort.c -o bubble_sort
 ./bubble_sort
 ```
